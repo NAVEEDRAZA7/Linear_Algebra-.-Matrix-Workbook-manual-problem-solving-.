@@ -13,7 +13,9 @@ To build a strong conceptual understanding of Linear Algebra by implementing bot
 
 This helps bridge the gap between theory and practical programming in AI and Machine Learning.
 
-#  Topics Covered
+# - Topics Covered
+
+
 
 #  Basic Matrix Operations
 Row Matrix
@@ -51,6 +53,7 @@ Compare:
 Manual implementation (logic)
 NumPy built-in functions (shortcut)
 Observe how matrices transform step by step
+
 🛠 Requirements
 pip install numpy
 
@@ -70,5 +73,6 @@ How matrix operations actually work
 How NumPy simplifies them
 How Linear Algebra is used in AI & ML pipelines
 
-🔗 Author
+ Author:
+ 
 Naveed Raza | AI & Mathematics enthusiast exploring Machine Learning and Python-based mathematical modeling.
